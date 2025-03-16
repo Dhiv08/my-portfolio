@@ -10,6 +10,5 @@ This portfolio highlights my expertise in **Artificial Intelligence, Machine Lea
 
 ## Technologies Used  
 - **Frontend:** HTML, CSS, JavaScript, React.js  
-- **Styling:** Tailwind CSS  
 - **Deployment:** Netlify / GitHub Pages  
 - **Version Control:** Git & GitHub  
