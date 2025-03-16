@@ -9,6 +9,6 @@ Welcome to my **Personal Portfolio Repository**. This repository contains the so
 This portfolio highlights my expertise in **Artificial Intelligence, Machine Learning, Data Science, and Software Development**. It serves as a professional space to demonstrate my technical capabilities and achievements.  
 
 ## Technologies Used  
-- **Frontend:** HTML, CSS, JavaScript, React.js  
+- **Frontend:** HTML, CSS, JavaScript
 - **Deployment:** Netlify / GitHub Pages  
 - **Version Control:** Git & GitHub  
